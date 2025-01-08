@@ -1,0 +1,14 @@
+C:\Users\thapa\source\repos\My First Program\My First Program\bin\Debug\net8.0\My First Program.exe
+C:\Users\thapa\source\repos\My First Program\My First Program\bin\Debug\net8.0\My First Program.deps.json
+C:\Users\thapa\source\repos\My First Program\My First Program\bin\Debug\net8.0\My First Program.runtimeconfig.json
+C:\Users\thapa\source\repos\My First Program\My First Program\bin\Debug\net8.0\My First Program.dll
+C:\Users\thapa\source\repos\My First Program\My First Program\bin\Debug\net8.0\My First Program.pdb
+C:\Users\thapa\source\repos\My First Program\My First Program\obj\Debug\net8.0\My First Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thapa\source\repos\My First Program\My First Program\obj\Debug\net8.0\My First Program.AssemblyInfoInputs.cache
+C:\Users\thapa\source\repos\My First Program\My First Program\obj\Debug\net8.0\My First Program.AssemblyInfo.cs
+C:\Users\thapa\source\repos\My First Program\My First Program\obj\Debug\net8.0\My First Program.csproj.CoreCompileInputs.cache
+C:\Users\thapa\source\repos\My First Program\My First Program\obj\Debug\net8.0\My First Program.dll
+C:\Users\thapa\source\repos\My First Program\My First Program\obj\Debug\net8.0\refint\My First Program.dll
+C:\Users\thapa\source\repos\My First Program\My First Program\obj\Debug\net8.0\My First Program.pdb
+C:\Users\thapa\source\repos\My First Program\My First Program\obj\Debug\net8.0\My First Program.genruntimeconfig.cache
+C:\Users\thapa\source\repos\My First Program\My First Program\obj\Debug\net8.0\ref\My First Program.dll
